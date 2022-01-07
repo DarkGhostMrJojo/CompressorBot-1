@@ -1,4 +1,4 @@
-# This is a Telegram Video Compress Bot.💫
+# Binary TG Video Compress Bot.💫
 
 [![videocompressbot](https://telegra.ph/file/ec53b3315ac6b45af0236.jpg)](https://t.me/binary_lk)
 
