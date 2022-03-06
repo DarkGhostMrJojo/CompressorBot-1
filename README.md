@@ -10,7 +10,7 @@
 
 
 ### Deploy On Heroku .  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkGhostMrJojo/CompressorBot-1)
 
 ## Full credits 
 [@1danish-00 Compressor Bot](https://github.com/1Danish-00/CompressorBot)
